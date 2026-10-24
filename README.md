@@ -35,16 +35,22 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <img src="images/echo-form.png" width="72" alt=""><br>
       <b>Echo Form</b><br>
       Modélisation 3D<br>
       <sub>Version de test</sub>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <img src="images/echo-cad.png" width="72" alt=""><br>
       <b>Echo CAD</b><br>
       Dessin technique 2D, DWG et DXF<br>
+      <sub>Version de test</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="images/echo-lumo.png" width="72" alt=""><br>
+      <b>Echo Lumo</b><br>
+      Assistant IA<br>
       <sub>Version de test</sub>
     </td>
   </tr>
@@ -52,7 +58,7 @@
 
 **Bientôt** : Echo Photo, Echo Illustra, Echo Timeline, Echo Compose, Echo Design, Echo Light, Echo Write, Echo Sheet, Echo Point et Echo Mechanica.
 
-Les applications s'installent depuis Echo, en un clic.
+Les applications s'installent depuis Echo, en un clic. Leurs versions commencent par l'année de la suite : 2027.0.1.0.
 
 ## Mises à jour
 
